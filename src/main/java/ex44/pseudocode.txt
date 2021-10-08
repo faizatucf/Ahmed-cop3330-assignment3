@@ -1,0 +1,7 @@
+1. START
+2. In main -> accept input
+3. Input json file using gson
+4. Check if product is present in json
+5. if it is print its details
+6. else return false and repeat
+7. END.

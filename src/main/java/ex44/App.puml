@@ -1,0 +1,9 @@
+@startuml
+
+class App {
+  +output(out:String):void
+  +Read_Json(product:String, cdir:String):boolean
+  +main(String [] args):void
+}
+
+@enduml

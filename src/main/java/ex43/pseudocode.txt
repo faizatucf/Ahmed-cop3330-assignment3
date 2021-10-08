@@ -1,0 +1,8 @@
+1. START
+2. In main -> accept input
+3. In website_gen call functions to create the folder.
+4. In website_gen call functions to create the html file.
+5. In website_gen call functions to create the js folder.
+6. In website_gen call functions to create the css folder.
+7. Print the created directories
+8. END.

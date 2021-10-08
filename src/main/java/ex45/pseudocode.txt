@@ -1,0 +1,7 @@
+1. START
+2. Accept the output filename
+3. Input the input file into an array list
+4. Replace utilize with use
+5. print to console
+6. print to file
+7. END.

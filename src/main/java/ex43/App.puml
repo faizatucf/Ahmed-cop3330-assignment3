@@ -1,0 +1,13 @@
+@startuml
+
+class App {
+  +output(out:String):void
+  +Create_folder(name:String, cdir:String):String
+  +html(name:String, author:String, cdir:String):String
+  +Create_js(cdir:String):String
+  +Create_css(cdir:String):String
+  +website_gen(name:String, author:String, js:int, css:int, cdir:String):void
+  +main(String [] args):void
+}
+
+@enduml

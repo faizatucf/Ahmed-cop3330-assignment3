@@ -1,0 +1,10 @@
+@startuml
+
+class App {
+  +output(out:String):void
+  +outputString(result:ArrayList<String>):void
+  +sort(filenamein:String ,filenameout:String):ArrayList<String>
+  +main(String [] args):void
+}
+
+@enduml

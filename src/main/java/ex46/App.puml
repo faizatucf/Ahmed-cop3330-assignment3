@@ -1,0 +1,11 @@
+@startuml
+
+class App {
+  +output(out:String):void
+  +makeuniquearray(result:ArrayList<String>):Map<String, Integer>
+  +outputString(myMap:Map<String, Integer>):ArrayList<String>
+  +sort(filename:String):ArrayList<String>
+  +main(String [] args):void
+}
+
+@enduml

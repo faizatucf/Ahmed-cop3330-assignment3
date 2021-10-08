@@ -1,0 +1,6 @@
+1. START
+2. In main -> Call sort function with file directories
+3. In sort read input file into arraylist.
+4. Call output to print the arraylist
+5. Split individual arraylist into string array and print
+6. END.

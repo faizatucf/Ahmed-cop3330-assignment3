@@ -1,0 +1,6 @@
+1. START
+2. Input the input file into an array list
+3. add every single word to a hashset get unique words
+4. Make hashmap of unique words and their word counts.
+5. Sort and print.
+6. END.
